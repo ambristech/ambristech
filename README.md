@@ -17,7 +17,7 @@ Tech enthusiast with **15+ years** of experience in **web development**, **digit
 - 📈 Boost visibility with **SEO**, **Google Ads**, and data-driven marketing.
 
 🌟 **Fun Fact**: I built a VoIP auto-calling system! 
-<p><h1>🎯 My 2025 goal?</h1> Master AI & cybersecurity! </p>
+<p><h1>🎯 My 2026 goal?</h1> Master AI & cybersecurity! </p>
 ---
 
 ### 💻 Tech Stack
