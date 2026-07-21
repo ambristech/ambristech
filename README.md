@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Ambris Pandey! 🚀</h1>
-  <p><strong>Transitioning to AI & Cybersecurity | 15+ Years in Web Dev & Digital Marketing | Passionate About ML & Automation</strong></p>
+  <p><strong>Transitioning to AI & Cybersecurity | 17+ Years in Web Dev & Digital Marketing | Passionate About ML & Automation</strong></p>
   <p>📍 Lucknow, India | 📧 <a href="mailto:ambristech@gmail.com">ambristech@gmail.com</a> | 🔗 <a href="https://linkedin.com/in/ambrisp">LinkedIn</a></p>
   <img src="https://komarev.com/ghpvc/?username=ambritech&style=flat-square&color=blue" alt="Profile views" />
 </div>
